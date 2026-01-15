@@ -1,0 +1,1 @@
+Redis permet d'améliorer les performances des systèmes.

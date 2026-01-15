@@ -1,0 +1,1 @@
+Le deep learning utilise des réseaux de neurones à plusieurs couches.

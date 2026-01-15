@@ -1,0 +1,1 @@
+Les modèles de langage génèrent du texte de manière autonome.

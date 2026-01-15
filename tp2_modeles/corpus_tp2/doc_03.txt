@@ -1,0 +1,1 @@
+Le machine learning utilise des algorithmes pour apprendre à partir de données.

@@ -1,0 +1,1 @@
+La parallélisation accélère le traitement de grandes quantités d'informations.

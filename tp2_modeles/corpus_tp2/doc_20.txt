@@ -1,0 +1,1 @@
+Les APIs permettent la communication entre différents systèmes logiciels.

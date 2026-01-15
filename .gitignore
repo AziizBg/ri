@@ -23,20 +23,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# Corpus et données générées
-corpus/
-corpus1/
-corpus2/
-corpus_tp2/
-*.json
-*.pkl
-*.pkl.gz
-index_*.json
-index_*.pkl*
-evaluations_*.json
-resultats_*.json
-test_results*.log
-
 # IDE
 .vscode/
 .idea/

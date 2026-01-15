@@ -1,0 +1,1 @@
+Les bases de données relationnelles stockent les données de manière structurée.

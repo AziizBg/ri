@@ -1,0 +1,1 @@
+Elasticsearch est un moteur de recherche distribué et scalable.

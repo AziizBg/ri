@@ -1,0 +1,1 @@
+Les applications de infrastructure as code transforment notre société.

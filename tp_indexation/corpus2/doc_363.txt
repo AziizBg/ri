@@ -1,0 +1,1 @@
+La recherche en load balancing progresse rapidement. Les systèmes modernes intègrent ces concepts.

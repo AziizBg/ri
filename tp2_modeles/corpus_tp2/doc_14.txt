@@ -1,0 +1,1 @@
+L'extraction d'information identifie les entités nommées dans les textes.
