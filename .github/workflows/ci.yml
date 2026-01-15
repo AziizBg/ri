@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.13'
+    - name: Install dependencies (TP Indexation)
+      run: |
+        cd tp_indexation
+        pip install -r requirements.txt
+    - name: Install dependencies (TP2 Modèles)
+      run: |
+        cd tp2_modeles
+        pip install -r requirements.txt
+    - name: Check syntax
+      run: |
+        python -m py_compile tp_indexation/*.py
+        python -m py_compile tp2_modeles/*.py
+
